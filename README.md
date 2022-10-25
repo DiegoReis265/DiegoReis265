@@ -6,10 +6,8 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoReis265&layout=compact&langs_count=7&theme=dark"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=DiegoReis265&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoReis265&layout=compact&langs_count=7&theme=radical"/>
-
-</div><div style="display: inline_block"><br>
-  <img align="center" alt="Diego-Vs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
-  <img align="center" alt="Diego-Lx" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" /><div style="display: inline_block"><br>
+    
+<div style="display: inline_block"><br>
   <img align="center" alt="Diego-Vs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
   <img align="center" alt="Diego-Lx" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" />
   <img align="center" alt="Diego-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" />
