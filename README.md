@@ -27,6 +27,6 @@
 <a href="mailto:d.felipe66@yahoo.com"><img src="https://www.freeiconspng.com/uploads/yahoo-mail-icon-22.jpg" width="100" alt="Symbol Yahoo Mail Icon"target="_blank" /></a>
 <a href="https://www.linkedin.com/in/diego-felipe-89a269106/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 
-</div>
-
 ![Snake animation](https://github.com/DiegoReis265/blob/output/github-contribution-grid-snake.svg)
+
+</div>
