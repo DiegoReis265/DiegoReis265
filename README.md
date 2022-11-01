@@ -1,4 +1,4 @@
-##                                                                Hello! My names is Diego Reis👋
+##                                                                Hello! My name is Diego Reis👋
 
 ### I have a degree in Control and Automation Engineering, I am looking for opportunities and collaboration in projects related to software development and data science.
 
