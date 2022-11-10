@@ -1,12 +1,11 @@
 ##                                                                Hello! My name is Diego Reis👋
 
-### I have a degree in Control and Automation Engineering, I am looking for opportunities and collaboration in projects related to software development and data science.
-
 <div align="center"> 
   <a href="https://github.com/DiegoReis265">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=DiegoReis265&show_icons=true&theme=radical&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoReis265&layout=compact&langs_count=7&theme=radical"/>      
-    
+
+ ### I have a degree in Control and Automation Engineering, I'm a Dev JR and I'm looking for opportunities and collaboration on projects related to software development and data science.   
 </div>
   
 ## Ferramentas e Tecnologias:
@@ -25,8 +24,7 @@
 
 ## Contatos:
 <div>
-<a href="https://www.instagram.com/diego1reis/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href="mailto:d.felipe66@yahoo.com"><img src="https://www.freeiconspng.com/uploads/yahoo-mail-icon-22.jpg" width="100" alt="Symbol Yahoo Mail Icon" target="_blank" /></a>
+<a href = "mailto:diego.reis5617@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/diego-felipe-89a269106/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 
   ![Snake animation](https://github.com/DiegoReis265/DiegoReis265/blob/output/github-contribution-grid-snake.svg)
