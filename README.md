@@ -1,5 +1,5 @@
-##                                                                Hello! My name is Diego Reis👋
-### I have a degree in Control and Automation Engineering, I'm a Dev JR and I'm looking for opportunities and collaboration on projects related to software development and data science.   
+##                                                               Olá! Meu nome é Diego Reis👋
+### Sou formado em Engenharia de Controle e Automação, sou Dev JR e procuro oportunidades e colaboração em projetos relacionados ao desenvolvimento de software e ciência de dados.   
 <div align="center"> 
   <a href="https://github.com/DiegoReis265">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=DiegoReis265&show_icons=true&theme=radical&count_private=true"/>
